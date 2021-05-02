@@ -2,4 +2,4 @@
 
 Quaternion-basierte Zustandsregelung
 
-A example code of designing LQR for Spacecraft (aka attitude control)
+A simple example code of designing LQR for Spacecraft (aka attitude control)
